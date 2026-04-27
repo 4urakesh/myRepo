@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    background: linear-gradient(to right, red, yellow, green);
+    color: black;
+    padding: 10px;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
